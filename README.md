@@ -62,9 +62,9 @@ _aka MasterJaneza – Creative Developer & Designer_
 
 ---
 
-## ⚠️ Heads Up
+## ⚠️ Note
 
-Dark mode lovers — this demo wasn't made with you in mind (yet). For full visual clarity, flip the switch to light mode.
+If you're using dark mode, some visuals might not look as intended. For the best experience, switch to light mode.
 
 ---
 
