@@ -39,6 +39,28 @@ V1 was all grit, no glam, purely functional with basic layout and animation. **V
 - Improved structure in both HTML and CSS.
 - Less duplication, more clarity. Easier to expand or remix for future features.
 
+
+
+---
+
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V1.git
+
+**Open the Project:**
+
+- Open `index.html` in your browser  
+  **or**
+- Use **Live Server** in VS Code.
+--- 
+
+---
+
+
 ---
 
 ## 🧪 License
